@@ -1,4 +1,5 @@
-[[https://mini-team2-home-project.vercel.app/](https://mini-team-project-web-page.onrender.com/)](https://mini-team2-home-project.vercel.app/)
+### 플래폼 접속 URL
+[(https://mini-team-project-web-page.onrender.com/)](https://mini-team2-home-project.vercel.app/)
 
 # HR Risk Dashboard
 
