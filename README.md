@@ -21,7 +21,7 @@
 
 ## 🛠 Tech Stack
 
-<img width="1376" height="768" alt="architecture-diagram" src="https://github.com/user-attachments/assets/1d4db16e-3a67-4d38-a229-2d03a02d1b07" />
+<img width="1376" height="768" alt="architecture-diagram" src="/Document/PHA_Architecture.png" />
 
 ### Frontend
 - React
